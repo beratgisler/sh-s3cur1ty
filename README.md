@@ -15,6 +15,7 @@ $ Dummy scripts for learning security and basic needs
 3$ ./up.sh --> is that up ?
 4$ ./zone.sh --> simple zone transfer :)
 5$ ./ch3ck-1p.sh --> what is my fvckin ip ?
+$6 ./Quick.sh --> Checking MS17-010 etc. using NSE  
 ```
 
                                                                                                                                                                              
