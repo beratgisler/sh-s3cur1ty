@@ -16,6 +16,7 @@ $ Dummy scripts for learning security and basic needs
 4$ ./zone.sh --> simple zone transfer :)
 5$ ./ch3ck-1p.sh --> what is my fvckin ip ?
 $6 ./Quick.sh --> Check somethings using NSE  
+$7 ./Rpass-gen.sh --> Zip my report with fvkin password :)
 ```
 
                                                                                                                                                                              
