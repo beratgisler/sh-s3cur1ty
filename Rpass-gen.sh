@@ -19,8 +19,8 @@ read customer
 echo " "
 
 echo "+--------------------------------------------------------------+"
-rand="$(date +%s | sha256sum | base64 | head -c 32 ; echo)"
-rand2="$(</dev/urandom tr -dc '12345!@#$%qwertQWERTasdfgASDFGzxcvbZXCVB<>()/' | head -c16 | md5sum | cut -f 1 -d " ")"
+rand="$(date +%s | sha256sum | base64 | head -c 12 ; echo)"
+rand2="$(</dev/urandom tr -dc '12345!@#$%qwertQWERTasdfgASDFGzxcvbZXCVB<>()/' | head -c12 | md5sum | cut -f 1 -d " ")"
 rand3="$(tr -dc A-Za-z0-9 </dev/urandom | head -c 12 ; echo '')"
 
 echo "Generated Report Password: ${rand}" > ${customer}.passwd
