@@ -11,7 +11,7 @@ banner()
   echo "+--------------------------------------------------------------+"
 }
 
-banner "Welcome to the report Zipp3r =) | created by r00t1x..."
+banner "Welcome to the report Zipp3r =) | created by 0xs1k1nt1..."
 echo -ne "File Name:"
 read pathname 
 echo -ne "Customer Name:"
