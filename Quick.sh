@@ -10,7 +10,7 @@ banner()
   echo "+--------------------------------------------------------------+"
 }
 
-banner "Say Hai! 2 The Fast Check || Created by root1x"
+banner "Say Hai! 2 The Fast Check || Created by 0xs1k1nt1"
 echo -ne "Subnet or IP:" 
 read scope
 mkdir ScanResults 
