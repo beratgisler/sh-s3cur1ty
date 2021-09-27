@@ -1,6 +1,5 @@
 #!/bin/bash
-
-#Author:root1x 
+#Author:0xs1k1nt1
 
 banner()
 {
