@@ -17,6 +17,7 @@ $ Dummy scripts for learning security and basic needs
 5$ ./ch3ck-1p.sh --> what is my fvckin ip ?
 $6 ./Quick.sh --> Check somethings using NSE  
 $7 ./Rpass-gen.sh --> Zip my report with fvkin password :)
+$8 ./fwP-conf-check.sh --> Checks outside connections :S 
 ```
 
                                                                                                                                                                              
